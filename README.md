@@ -40,7 +40,7 @@ WiFi Network Monitoring & Anomaly Detection System
   Ultrasonic Sensors → Object Detection → Pi Camera Captures Image → Stored in Database  
 🚀 Getting Started
 1. Clone the Repository
-  git clone https://github.com/NuetreX-io/wifi-network-monitoring.git
+  git clone https://github.com/Ricky-Hacker001/network.git
   cd network
 2. Install Dependencies
   pip install scapy mysql-connector-python telepot opencv-python
